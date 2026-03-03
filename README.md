@@ -50,5 +50,4 @@ Truy cập `http://localhost:3000` trên trình duyệt để xem.
 
 ---
 
-Chúc bạn phát triển dự án! Nếu có câu hỏi hoặc yêu cầu, hãy mở issue hoặc
-liên hệ với người phụ trách.
+
